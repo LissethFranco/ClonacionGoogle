@@ -27,4 +27,4 @@ Contiene las siguientes secciones:
 Aprender a utilizar las etiquetas esrandar de HTML5 y CSS3.
 
 ## 4. Link a Demo
-Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://github.com/LissethFranco/ClonacionGoogle)
+Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://statuesque-babka-6d4cc3.netlify.app/#)
